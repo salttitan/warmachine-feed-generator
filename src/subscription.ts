@@ -25,17 +25,17 @@ const matchText: string[] = [
   'infernals',
   'protectorate of menoth',
   'skorne',
-  'trollbloods'
+  'trollbloods',
   'legion of everblight',
   'shadowflame shard',
   'retribution of scyrah',
-  'necrofactorium'
+  'necrofactorium',
 
   //other common terms
   'menoth',
   'menite',
   'thamar',
-  'morrow',
+  'morrowan',
   'everblight',
   'cyriss',
   'scyrah',
